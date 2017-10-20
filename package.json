@@ -6,10 +6,10 @@
   "main": "kuro.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/kanadeko/Kuro"
+    "url": "https://github.com/treerachai/Kuro"
   },
   "bugs": {
-    "url": "https://github.com/kanadeko/Kuro/issues"
+    "url": "https://github.com/treerachai/Kuro/issues"
   },
   "engines": {
     "node": ">=6.0.0"
